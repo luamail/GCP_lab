@@ -1,3 +1,4 @@
+
 # GSP215 - HTTP Load Balancer with Cloud Armor
 
 ## Task 1. Configure HTTP and health check firewall rules
